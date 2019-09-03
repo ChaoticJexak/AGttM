@@ -1,8 +1,8 @@
 h1{color: rgb(230, 18, 18);{font-weight: bold};
 background-color: rgb(130, 63, 57);border: 1px solid brown;  p{font-family:Helvetica}; p{font-size:15px}}
 p{color:brown} 
-body{color: rgb(230, 18, 18)}
+body {background-color: beige;}
 a:link { color: black; } 
 a:visited {color: brown}
 ul{list-style-type:square;}
-footer{ color: rgb(230,18,18)}
+footer{ color: rgb(230,18,18)
