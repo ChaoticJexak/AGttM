@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+
+    <!-- 
+        The following lines set character encoding and viewport behaviour, they are required by. You don't really need to worry about these 
+    -->
+    <link rel = "stylesheet" type="text/css" href= "style.css"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- You can change the contents of the title tag to control what appears in the title bar of the browser -->
+    <title>AGttM</title>
+    
+    <body background="https://live.staticflickr.com/2944/15192879329_9052a4812b_b.jpg" >
+   
+</head>
+
+<body>
+
+     <center> <h1> <strong> The Adventurer's Guide to the multiverse </strong>  </h1> <br/> </center>
+<em> <center> Your compreshensive guide to worlddbuilding and participating in all 'Pen-and-Paper' systems!</em> </center>
+
+<h2> Guildmaster's Guidebook </h2>
+</h2>
+
+
+
+
+
+    <div class=nav>
+<ul> 
+<li> <a href="index.html" > Home </a></li>
+<li> <a href= "Tavern thoughts.html"> Tavern Thoughts </a></li>
+<li> <a href= "From the Vault.html"> From The Vault </a></li>
+<li> <a href= "Guildmaster's Guideook.html">Guildmaster's Guidebook </a></li>
+<li> <a href="The Laughing Goblin.html"> The Laughing Goblin </a></li>
+<li> <a href="The Realm Podcast.html" > 'The Realm' Podcast </a></li>
+</ul>
+</div>
+
+
+         
+
+
+
+
+
+        <strong> <p> X/09/2019 </strong> </p>
+
+    
+    
+    <footer> Created by ChaoticJexak <br/>
+    World anvil: <a href= "https://www.worldanvil.com/w/Old-Zenithas-Chaoticjexak"> Old Zenithas </a> 
+    
+    </footer>
+
+</body>
+    </html>
