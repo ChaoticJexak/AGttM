@@ -1,22 +1,21 @@
     
 h1{color: rgb(230, 18, 18);{font-weight: bold};
-background-color: rgb(130, 63, 57);border: 1px solid brown;  p{font-family:Helvetica};
-p{font-size:15px}}
+background-color: rgb(130, 63, 57);border: 1px solid brown;  p{font-family:Helvetica};}
+h2{color: rgb(230, 18, 18);{font-weight: bold};
+background-color: rgb(130, 63, 57);border: 1px solid brown;  p{font-family:Helvetica}; {font-Size: 10px; }}
+p{font-size:15px}
 p{color:brown} 
-a:link { color: black; } 
-a:visited {color: brown}
+a:link { color: grey; } 
+a:visited {color: purple}
 ul{list-style-type:square;}
-footer{ color: rgb(230,18,18) }
+footer{ color: rgb(230, 18, 18); }
 
 
-.nav {
-    background-color: rgb(130, 63, 57); color: white;
-    padding: .5em; position: sticky; top: 0;
-  }
+.nav {background-color: rgb(130, 63, 57); color: white;
+    padding: 0.5em; position: sticky; top: 0;}
   
   nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
-display: flex; 
-  }
+display: flex; }
