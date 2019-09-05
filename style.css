@@ -7,7 +7,7 @@ p{font-size:15px}
 p{color:brown} 
 a:link { color: grey; } 
 a:visited {color: purple}
-ul{list-style-type:square;}
+ul{{list-style-type:square;} {color: rgb(230, 18, 18); }
 footer{ color: rgb(230, 18, 18); }
 
 
